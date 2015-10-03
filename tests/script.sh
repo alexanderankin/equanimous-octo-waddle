@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -X POST -d '{"to":"Queens+County+Farm+Museum", "from":"East+New+York,+Brooklyn,+NY+11207"}' 'localhost:3000/api/directions' 
